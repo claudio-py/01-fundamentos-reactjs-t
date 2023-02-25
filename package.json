@@ -2,7 +2,7 @@
   "name": "01-fundamentos-reactjs-ts",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://claudio-py.github.io/01-fundamentos-reactjs-ts/",
+  "homepage": "https://claudio-py.github.io/01-fundamentos-reactjs-t/",
   "type": "module",
   "scripts": {
     "dev": "vite",
