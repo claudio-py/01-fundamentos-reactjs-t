@@ -25,6 +25,7 @@ export function Comment({ content, onDeleteComment }: CommentProps) {
         hasBorder={false}
         src="https://github.com/claudio-py.png"
         alt=""
+        onClick={()=> alert('onClick')}
       />
 
       <div className={styles.commentBox}>
